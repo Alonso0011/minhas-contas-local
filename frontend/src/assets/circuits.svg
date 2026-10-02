@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" fill="none">
+  <defs>
+    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#22D3EE" stop-opacity=".3"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".04"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".22"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#22D3EE" stop-opacity=".12"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="0" cy="360" rx="400" ry="620" fill="url(#light)"/>
+  <g stroke="url(#edge)" stroke-width="1">
+    <path d="M0 80h110l90 90v190l-70 70v420L0 980M0 140h70l90 90v100l-70 70v360L0 830M0 310h40l40 40v290L0 720M0 1010h190l60-60V820"/>
+    <path d="M1600 60h-150l-100 100v160l90 90v270l160 160M1600 140h-100l-100 100v70l90 90v230l110 110M1600 400h-70v180l70 70M1600 1100h-220l-90-90V880"/>
+    <path d="M120 0v75M230 0v110l80 80M1450 0v55M1570 950h-95l-40-40v-75M40 1080h170l55 55v65"/>
+    <path d="M0 1160h120M1520 1180h80" stroke-width="3"/>
+  </g>
+  <g fill="#22D3EE" opacity=".35"><circle cx="250" cy="820" r="3"/><circle cx="80" cy="640" r="3"/><circle cx="310" cy="190" r="3"/><circle cx="1435" cy="835" r="3"/></g>
+  <g fill="#A78BFA" opacity=".4"><circle cx="1290" cy="880" r="3"/><circle cx="1400" cy="240" r="3"/></g>
+</svg>
